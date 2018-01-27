@@ -1,2 +1,9 @@
 # MultiModulesDemo
-Demo of multiple modules per repo. (Starting with the default of 1 module at top level)
+Demo of multiple modules per repo.
+
+# current status:
+
+- Started with single module at top level.
+- Duplicated files into mod1 directory
+- Deleted original files at top level
+- Created new package.json with sub-module listing.
