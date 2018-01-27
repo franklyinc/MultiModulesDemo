@@ -6,7 +6,7 @@ class MultiModulesDemo extends Component {
 	  
     return (
       <div className='FranklyModulesDemo'>
-	      <h2 className='demo_text'>{this.props.text}</h2>
+	      <h2 className='demo_text'>mod1: {this.props.text}</h2>
       </div>
     );
 	  
