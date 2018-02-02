@@ -1,6 +1,6 @@
-import React stff, { Component, PropTypes } from 'react';
+import React, { Component, PropTypes } from 'react';
 
-class MultiModulesDemo1 sdf extends Component {
+class MultiModulesDemo1 extends Component {
 	
   render(){
 	  
