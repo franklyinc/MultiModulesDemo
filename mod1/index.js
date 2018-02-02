@@ -1,4 +1,4 @@
-import React, { Component, PropTypes } from 'react';
+import React stff, { Component, PropTypes } from 'react';
 
 class MultiModulesDemo1 extends Component {
 	
