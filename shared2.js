@@ -6,7 +6,7 @@ class shared2 extends Component {
 	  
     return (
       <div className='shared2'>
-	      shared2</br>
+	      shared2<br />
       </div>
     );
 	  
