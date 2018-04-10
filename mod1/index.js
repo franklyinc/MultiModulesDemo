@@ -1,5 +1,5 @@
 import React, { Component, PropTypes } from 'react';
-import Shared1 from '../shared1';
+import shared1 from '../shared1';
 
 class MultiModulesDemo1 extends Component {
   render(){
