@@ -6,8 +6,7 @@ class shared1 extends Component {
   render(){
 	  
     return (
-      <div className='shared1'>
-	      shared2</br>
+      <div className='shared1'>shared1
         <shared2></shared2>
       </div>
     );
