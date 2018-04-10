@@ -1,5 +1,5 @@
 import React, { Component, PropTypes } from 'react';
-import shared2 from './shared2';
+import shared2 from '../shared2';
 
 class shared1 extends Component {
 	
