@@ -1,18 +1,18 @@
 import React, { Component, PropTypes } from 'react';
-import Shared2 from './shared2';
+import shared2 from './shared1';
 
-class Shared1 extends Component {
+class shared1 extends Component {
 	
   render(){
 	  
     return (
-      <div className='Shared1'>
-	      Shared1</br>
-        <Shared2></Shared2>
+      <div className='shared1'>
+	      shared2</br>
+        <shared2></shared2>
       </div>
     );
 	  
   }
 }
 
-export default Shared1;
+export default shared1;
