@@ -1,5 +1,5 @@
 // import React, { Component, PropTypes } from 'react';
-// import shared2 from './shared2';
+import shared2 from './shared2';
 
 // class shared1 extends Component {
 	
@@ -18,7 +18,7 @@
 // export default shared1;
 
 function shared1 (n) {
-  return n * 2
+  return shared2(n * 2);
 }
 
 export default shared1
