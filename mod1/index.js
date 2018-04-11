@@ -6,7 +6,7 @@ class MultiModulesDemo1 extends Component {
     return (
       <div className='FranklyMultiModulesDemo'>
 	      <h2 className='demo_text'>mod1: {this.props.text}</h2>
-	      <shared1></shared1>
+	    {shared1(5)}
       </div>
     );
 	  
